@@ -29,7 +29,7 @@ permalink: :year/:month/:day/:title/
 permalink_defaults:
 ```
 ```yml
-# git配置, 虽然没用到..., tip: type前面不能有空格, 其他key值也一样, 不然回报错
+# git配置, 虽然没用到..., tip: type前面不能有空格, 其他key值也一样, 不然会报错
 deploy: git@github.com:a417420427/blog.git
 type: git
 ```
